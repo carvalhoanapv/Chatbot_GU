@@ -1,0 +1,12 @@
+{
+  "name": "chatbot_game",
+  "packageManager": "yarn@4.4.1",
+  "devDependencies": {
+    "@types/node": "^22.13.10",
+    "typescript": "^5.8.2"
+  },
+  "dependencies": {
+    "speechstate": "^2.10.0",
+    "xstate": "^5.19.2"
+  }
+}
